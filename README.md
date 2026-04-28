@@ -65,7 +65,7 @@ Este repositório reúne os exercícios, mini-projetos e desafios práticos reso
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/100-Dias-of-code-python.git
+   git clone [https://github.com/seu-usuario/100-Dias-of-code-python.git](https://github.com/KakaPerpetuo/100-Days-Pyhton.git)
    ```
 
 2. Acesse a pasta do dia desejado:
