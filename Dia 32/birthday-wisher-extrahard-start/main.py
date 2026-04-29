@@ -34,8 +34,14 @@ if not birthdays_match.empty:
         with smtplib.SMTP("smtp.gmail.com") as connection:
             connection.starttls()
             connection.login(user=my_email, password=password)
-            connection.sendmail(from_addr=my_email, to_addrs=row["email"], msg=f"Subject:Happy Birthday!\n\n{letter_content}")
+            connection.sendmail(
+                from_addr=my_email, 
+                to_addrs=row["email"], 
+                msg=f"Subject:Happy Birthday!\n\n{letter_content}")
+
+# PythonAnywhere: cloud based python application
+# We can host our application on PythonAnywhere to keep it running 24/7
+# 
 
 
-
-
+  
