@@ -33,7 +33,7 @@ Este repositório reúne os exercícios, mini-projetos e desafios práticos reso
 ## 🚀 Tecnologias
 
 - **Linguagem:** Python 3.x
-- **Ferramentas:** VS Code / PyCharm / Replit
+- **Ferramentas:** VS Code / PyCharm / Replit / Antigravity
 - **Controle de versão:** Git & GitHub
 
 ---
@@ -42,7 +42,7 @@ Este repositório reúne os exercícios, mini-projetos e desafios práticos reso
 
 | Dias concluídos | Total | Status |
 |:-:|:-:|:-:|
-| 🔄 34 | 100 | 🟡 Em progresso |
+| 🔄 35 | 100 | 🟡 Em progresso |
 
 ---
 
