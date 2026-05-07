@@ -42,7 +42,7 @@ Este repositório reúne os exercícios, mini-projetos e desafios práticos reso
 
 | Dias concluídos | Total | Status |
 |:-:|:-:|:-:|
-| 🔄 39 | 100 | 🟡 Em progresso |
+| 🔄 40 | 100 | 🟡 Em progresso |
 
 ---
 
